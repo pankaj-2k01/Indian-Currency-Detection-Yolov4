@@ -5,7 +5,7 @@ I have created the Custom Indian Currency Dataset and Trained the Yolov4 on thos
 `Multiple_image` is the Final Dataset which I have used.
 `Training.ipyb` is the Notebook file used for the Training and it is done in `Google Colab`
 Weights are then generated and used as per the use case.
-Image gets Predicted on the basis of the Training and correspoding auido of the Currency gets Played in the background.
+Image gets Predicted on the basis of the Training and correspoding audio of the Currency gets Played in the background.
 
 
 Dataset Description
